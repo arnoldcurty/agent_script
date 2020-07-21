@@ -1,11 +1,6 @@
 #!/bin/bash
-
-if
-	[${UID} -ne o ]
-then
-	echo "you need root access"
-fi	
-
+	
+Description: Benzema
 
 lscpu
 cat /etc/*release
